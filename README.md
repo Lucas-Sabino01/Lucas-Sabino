@@ -10,7 +10,8 @@ Recentemente, desenvolvi o **Day@Shop**, uma aplicação web de gerenciamento de
 
 
 
-![Demo do Day@Shop](![Gif Valmet](https://github.com/user-attachments/assets/f0b4a9b6-4565-4459-b0f6-f790206e3782))
+## Demo do Day@Shop 
+![Gif Valmet](https://github.com/user-attachments/assets/f0b4a9b6-4565-4459-b0f6-f790206e3782)
 
 O projeto inclui um backend em **C# com .NET** e um frontend em **React com TypeScript**, com um cronograma interativo e notificações em tempo real.
 
