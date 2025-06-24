@@ -1,4 +1,4 @@
-![Gif Valmet](https://github.com/user-attachments/assets/e80cf472-e4fc-4928-9882-a8919a48930e)# Olá! 👋 Sou o Lucas Sabino
+# Olá! 👋 Sou o Lucas Sabino
 
 Engenheiro de software em formação, apaixonado por criar soluções web robustas e escaláveis que resolvem problemas reais.
 
