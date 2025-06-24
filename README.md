@@ -43,4 +43,4 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-sabino-492571355?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BltCJS5VMQ06EgeH6YbCTtw%3D%3D)
 &nbsp;
-**[lucas3sabino@gmail.com]**
+#### lucas3sabino@gmail.com
