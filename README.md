@@ -35,7 +35,7 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 
 ### 📊 Minhas Estatísticas no GitHub
 
-[![Estatísticas do GitHub de Lucas](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/Lucas-Sabino01)
+[![Estatísticas do GitHub de Lucas](https://github-readme-stats.vercel.app/api?username=Lucas-Sabino01&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/Lucas-Sabino01)
 
 ---
 
